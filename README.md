@@ -45,22 +45,30 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  
-  <!-- Linguagens mais usadas (Ordenadas automaticamente da maior para a menor) -->
-  <a href="https://github.com/caiquewin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquewin&layout=compact&theme=gotham&hide_border=true&langs_count=8&cache_seconds=1800" width="400" alt="languages graph"  />
-  </a>
-  
-  <br><br>
-  
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/caiquewin">
-      <img src="https://github-readme-stats.vercel.app/api?username=caiquewin&show_icons=true&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="stats graph"  />
-    </a>
-    <a href="https://github.com/caiquewin">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquewin&theme=gotham&hide_border=true" height="150" alt="streak graph"  />
-    </a>
-  </div>
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://github.com/caiquewin">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquewin&theme=gotham&hide_border=true&langs_count=8&cache_seconds=1800" width="400" alt="languages graph" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/caiquewin">
+          <img src="https://github-readme-stats.vercel.app/api?username=caiquewin&show_icons=true&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="stats graph" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/caiquewin">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquewin&theme=gotham&hide_border=true" height="150" alt="streak graph" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
