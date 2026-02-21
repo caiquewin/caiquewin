@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
@@ -45,13 +47,19 @@
   <h3>📊 GitHub Stats</h3>
   
   <!-- Linguagens mais usadas (Ordenadas automaticamente da maior para a menor) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquewin&layout=compact&theme=gotham&hide_border=true&langs_count=8" width="400" alt="languages graph"  />
+  <a href="https://github.com/caiquewin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquewin&layout=compact&theme=gotham&hide_border=true&langs_count=8&cache_seconds=1800" width="400" alt="languages graph"  />
+  </a>
   
   <br><br>
   
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=caiquewin&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquewin&theme=gotham&hide_border=true" height="150" alt="streak graph"  />
+    <a href="https://github.com/caiquewin">
+      <img src="https://github-readme-stats.vercel.app/api?username=caiquewin&show_icons=true&theme=gotham&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="stats graph"  />
+    </a>
+    <a href="https://github.com/caiquewin">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquewin&theme=gotham&hide_border=true" height="150" alt="streak graph"  />
+    </a>
   </div>
 </div>
 
@@ -61,7 +69,7 @@
   <h3>📫 Contato</h3>
   
   <!-- Adicione seus links reais abaixo -->
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/caique-alves-284076176/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:seu-email@gmail.com">
